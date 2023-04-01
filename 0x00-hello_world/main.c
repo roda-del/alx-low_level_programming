@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	printf("This is an output string");
+	printf("Holberton School");
 	return (0);
 }
